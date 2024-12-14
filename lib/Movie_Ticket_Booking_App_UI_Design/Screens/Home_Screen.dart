@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/Screens/Booking_screen.dart';
+import 'package:flutter_application_1/Movie_Ticket_Booking_App_UI_Design/Screens/Booking_screen.dart';
 
 // ignore: must_be_immutable
 class HomeScreen extends StatelessWidget {

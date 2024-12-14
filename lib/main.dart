@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/Screens/Welcome_Screen.dart';
+
+import 'package:flutter_application_1/Movie_Ticket_Booking_App_UI_Design/Screens/Welcome_Screen.dart';
+
 
 void main() {
   runApp(const MyApp());
