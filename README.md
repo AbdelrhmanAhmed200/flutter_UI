@@ -3,13 +3,7 @@
 # `Movie_Ticket_Booking_App`
 
 A sleek and modern Movie Ticket Booking App UI built using Flutter. This app provides a beautiful user interface for booking movie tickets with a focus on smooth navigation and responsive design.
-
-## `Features`
-
-Interactive text-based interface.
-Intelligent computer moves in "Hard" mode using Minimax, making it unbeatable for most players.
-Real-time display of the Tic-Tac-Toe board after each move.
-Option to play again after the game ends or to exit.## Demo Video
+## Demo Video
 
 [Watch the Demo Video](./images/Readme.mp4)
 
