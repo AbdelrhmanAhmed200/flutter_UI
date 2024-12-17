@@ -5,11 +5,11 @@
 A sleek and modern Movie Ticket Booking App UI built using Flutter. This app provides a beautiful user interface for booking movie tickets with a focus on smooth navigation and responsive design.
 ## Demo Video
 
-[images](./images/Home_Screen.jpg)
-[images](./images/Screen1.jpg)
-[images](./images/Screen2.jpg)
-[images](./images/Screen3.jpg)
-[images](./images/WhatsApp%20Image%202024-12-17%20at%2018.52.38_8b07d4ac.jpg)
+(./images/Home_Screen.jpg)
+(./images/Screen1.jpg)
+(./images/Screen2.jpg)
+(./images/Screen3.jpg)
+(./images/WhatsApp%20Image%202024-12-17%20at%2018.52.38_8b07d4ac.jpg)
 
 ## How to Run the App
 
