@@ -11,7 +11,7 @@ Intelligent computer moves in "Hard" mode using Minimax, making it unbeatable fo
 Real-time display of the Tic-Tac-Toe board after each move.
 Option to play again after the game ends or to exit.## Demo Video
 
-[Watch the Demo Video](/images/Readme.mp4)
+[Watch the Demo Video](./images/Readme.mp4)
 
 ## How to Run the App
 
