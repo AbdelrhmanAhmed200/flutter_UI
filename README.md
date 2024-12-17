@@ -1,16 +1,52 @@
-# flutter_application_1
 
-A new Flutter project.
 
-## Getting Started
+# `Movie_Ticket_Booking_App`
 
-This project is a starting point for a Flutter application.
+A sleek and modern Movie Ticket Booking App UI built using Flutter. This app provides a beautiful user interface for booking movie tickets with a focus on smooth navigation and responsive design.
 
-A few resources to get you started if this is your first Flutter project:
+## `Features`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Interactive text-based interface.
+Intelligent computer moves in "Hard" mode using Minimax, making it unbeatable for most players.
+Real-time display of the Tic-Tac-Toe board after each move.
+Option to play again after the game ends or to exit.## Demo Video
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Watch the Demo Video](/images/Readme.mp4)
+
+## How to Run the App
+
+Follow these steps to run the project on your local machine:
+
+```bash
+  git clone https://github.com/AbdelrhmanAhmed200/flutter_UI.git
+```
+#### Navigate to the Project Directory:
+```bash
+cd flutter_UI/lib/Movie_Ticket_Booking_App_UI_Design
+```
+#### Get Dependencies:
+```bash
+flutter pub get
+```
+#### Run the App:
+```bash
+flutter run
+```
+## Requirements
+
+Flutter SDK
+
+Android Studio or VS Code
+
+Emulator/Physical Device
+## Author
+
+- [@AbdelrhmanAhmed200](https://github.com/AbdelrhmanAhmed200)
+
+
+## Contact
+For any inquiries, reach out to:
+
+Developer: Abdelrhman Ahmed
+
+Email: abdelrahmanahmedfarid988@gmail.com
